@@ -1,0 +1,12 @@
+
+
+.myImageClass{
+    width: 100%;
+    height: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: block ;
+    margin-left: auto;
+    margin-right: auto;
+
+}
